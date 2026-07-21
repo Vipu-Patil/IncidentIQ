@@ -1,0 +1,4 @@
+timestamp,checkout_p95_ms,pool_utilization,db_cpu_percent,error_rate
+10:00,210,62,48,0.2
+10:05,2210,100,51,18.4
+10:10,2380,100,53,21.1

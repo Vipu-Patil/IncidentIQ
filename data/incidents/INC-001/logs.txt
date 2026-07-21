@@ -1,0 +1,5 @@
+2026-09-01T10:01:12Z INFO checkout request started id=req-1842
+2026-09-01T10:01:13Z WARN waiting for database connection
+2026-09-01T10:01:15Z ERROR timeout acquiring database connection after 2s
+2026-09-01T10:01:15Z INFO checkout request completed status=504 latency_ms=2210
+2026-09-01T10:01:16Z WARN pool utilization=100% active=40 idle=0

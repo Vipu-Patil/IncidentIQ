@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-002",
+  "title": "Checkout latency after payment release",
+  "severity": "high",
+  "description": "Checkout latency after payment release",
+  "ground_truth_root_cause": "Payment Service latency",
+  "expected_resolution": "Inspect provider latency and retry configuration; reduce excessive retry waiting and coordinate with the payment-service owner."
+}

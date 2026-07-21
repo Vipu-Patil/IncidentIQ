@@ -1,0 +1,4 @@
+timestamp,checkout_p95_ms,payment_p95_ms,payment_error_rate
+10:15,240,280,0.3
+10:20,2301,2140,7.8
+10:25,2480,2260,9.2

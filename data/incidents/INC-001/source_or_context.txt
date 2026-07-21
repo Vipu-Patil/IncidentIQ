@@ -1,0 +1,11 @@
+# Checkout transaction snippet
+def create_order(db, order):
+    tx = db.begin()
+    try:
+        result = insert_order(db, order)
+        publish_event(result)
+        tx.commit()
+    except Exception:
+        tx.rollback()
+        raise
+# Investigation note: release rel-2026.08.31 introduced longer transaction scope.

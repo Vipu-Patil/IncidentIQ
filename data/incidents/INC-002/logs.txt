@@ -1,0 +1,5 @@
+10:20:01 INFO checkout request started id=req-291
+10:20:02 INFO payment authorization started
+10:20:04 WARN payment authorization latency_ms=2140
+10:20:04 INFO checkout completed status=504 latency_ms=2301
+10:20:05 INFO checkout retry scheduled

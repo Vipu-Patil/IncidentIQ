@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-001",
+  "title": "Checkout latency spike",
+  "severity": "high",
+  "description": "Checkout latency spike",
+  "ground_truth_root_cause": "Database connection pool exhaustion",
+  "expected_resolution": "Reduce transaction scope, restore/rework the transaction handling, and tune pool capacity after confirming connection usage."
+}

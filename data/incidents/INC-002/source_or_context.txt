@@ -1,0 +1,1 @@
+Payment authorization is synchronous; the release increased provider wait/retry behavior.
