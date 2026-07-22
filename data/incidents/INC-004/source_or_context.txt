@@ -1,0 +1,5 @@
+# Simplified cache implementation
+request_cache = {}
+def remember(request_id, payload):
+    request_cache[request_id] = payload
+# Entries are never evicted.

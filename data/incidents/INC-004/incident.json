@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-004",
+  "title": "Checkout pods restarting",
+  "severity": "high",
+  "description": "Checkout pods restarting",
+  "ground_truth_root_cause": "Memory leak",
+  "expected_resolution": "Replace the unbounded in-memory cache with bounded/expiring storage and verify memory behavior after deployment."
+}

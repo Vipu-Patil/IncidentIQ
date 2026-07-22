@@ -1,0 +1,6 @@
+09:10:00 INFO checkout memory_mb=610
+09:20:00 INFO checkout memory_mb=720
+09:30:00 INFO checkout memory_mb=840
+09:40:00 WARN checkout memory_mb=970
+09:42:11 ERROR container OOMKilled
+09:42:15 INFO pod restarted

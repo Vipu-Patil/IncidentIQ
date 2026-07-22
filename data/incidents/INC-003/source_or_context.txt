@@ -1,0 +1,1 @@
+Consumer processing slowed after the batching change, causing lag to grow.

@@ -1,0 +1,4 @@
+timestamp,consumer_lag,processing_ms,error_rate
+10:00,850,120,0.2
+10:05,12450,980,4.1
+10:10,18100,1120,5.7

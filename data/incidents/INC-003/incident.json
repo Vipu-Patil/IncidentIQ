@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-003",
+  "title": "Order event processing delay",
+  "severity": "medium",
+  "description": "Order event processing delay",
+  "ground_truth_root_cause": "Kafka consumer lag",
+  "expected_resolution": "Inspect worker processing time and batching behavior; increase consumer capacity only after confirming processing bottleneck."
+}

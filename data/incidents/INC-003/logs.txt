@@ -1,0 +1,4 @@
+10:00:02 INFO order event published order_id=7821
+10:00:05 WARN consumer lag=12450 group=order-workers
+10:00:06 ERROR processing timeout partition=3
+10:00:08 WARN consumer lag=14120 group=order-workers
