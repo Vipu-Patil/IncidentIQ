@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-006",
+  "title": "Product lookup slowdown",
+  "severity": "medium",
+  "description": "Product lookup slowdown",
+  "ground_truth_root_cause": "Redis cache miss spike",
+  "expected_resolution": "Restore an appropriate TTL, validate Redis memory/evictions, and monitor hit rate."
+}

@@ -1,0 +1,4 @@
+timestamp,lookup_p95_ms,redis_hit_rate,redis_evictions
+14:00,180,93,120
+14:05,920,41,18420
+14:10,1100,38,20110

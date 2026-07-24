@@ -1,0 +1,4 @@
+14:00:01 INFO product lookup latency_ms=180
+14:05:02 WARN redis hit_rate=41%
+14:05:03 INFO product lookup latency_ms=920
+14:10:01 WARN redis evictions=18420

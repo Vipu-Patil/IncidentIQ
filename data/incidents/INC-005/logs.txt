@@ -1,0 +1,4 @@
+11:02:01 INFO deployment cfg-77 completed
+11:02:04 ERROR database connection refused host=db-prod port=5433
+11:02:04 ERROR checkout unavailable
+11:02:05 ERROR readiness probe failed

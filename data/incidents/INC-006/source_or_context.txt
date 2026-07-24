@@ -1,0 +1,1 @@
+Shortened cache TTL caused a sharp hit-rate drop and increased database reads.

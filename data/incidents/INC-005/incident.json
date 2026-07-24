@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-005",
+  "title": "Checkout failures after configuration change",
+  "severity": "critical",
+  "description": "Checkout failures after configuration change",
+  "ground_truth_root_cause": "Invalid database configuration",
+  "expected_resolution": "Restore the correct database port after human approval and verify service recovery."
+}
